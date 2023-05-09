@@ -1,6 +1,8 @@
 Clay Gifford
 1001918296
 
+# An application which simulates a router/router protocol using sockets
+
 # Compilation Instructions:
 
 1. navigate to the directory the source code and config files are located in and open a terminal
