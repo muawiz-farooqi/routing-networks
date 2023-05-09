@@ -1,7 +1,9 @@
 Clay Gifford
 1001918296
+Muhammad Muawiz Farooqi
+1001825601
 
-# An application which simulates a router/router protocol using sockets
+## An application which simulates a router/router protocol using sockets
 
 # Compilation Instructions:
 
